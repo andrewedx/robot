@@ -64,8 +64,6 @@ Monitors the text file and updates speech accordingly.
 Ensure the input/text.txt file exists and is accessible.
 Audio files are saved in the audio/ directory. Make sure this directory exists or modify the paths in the script as needed.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
 Andrew Ziadeh
