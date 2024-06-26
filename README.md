@@ -19,8 +19,7 @@ Install Pygame:
 pip install pygame
 ``
 
-## Install pyttsx3:
-
+Install pyttsx3:
 ``
 pip install pyttsx3
 ``
